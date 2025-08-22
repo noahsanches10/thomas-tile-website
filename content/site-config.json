@@ -56,7 +56,7 @@
   "logoSize": 60,
   "favicon": "/uploads/1755721882300.jpg",
   "footerTextColor": "auto",
-  "fontFamily": "inter",
+  "fontFamily": "poppins",
   "heroBackgrounds": {
     "home": "/uploads/hero-background-1755721892721.jpeg"
   },
