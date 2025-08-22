@@ -4,8 +4,8 @@
   "logo": "/uploads/1755721854470.jpg",
   "brandColors": {
     "primary": "#080D32",
-    "secondary": "#63D8E8",
-    "accent": "#8A58FC"
+    "secondary": "#8A58FC",
+    "accent": "#63D8E8"
   },
   "headerStyle": "primary",
   "footerStyle": "primary",
