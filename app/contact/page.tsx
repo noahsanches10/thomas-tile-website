@@ -25,7 +25,7 @@ export default async function ContactPage() {
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
           {contactContent.showContactInfo ? (
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
+            <div className={`${contactContent.embedForm?.enabled && contactContent.embedForm?.url ? 'grid grid-cols-1 lg:grid-cols-2 gap-12' : 'max-w-4xl mx-auto'}`}>
               {/* Contact Information */}
               <div className="space-y-8">
                 <div>
@@ -97,14 +97,26 @@ export default async function ContactPage() {
               </div>
 
               {/* Contact Form */}
-              <div>
-                <ContactForm />
-              </div>
+              {contactContent.embedForm?.enabled && contactContent.embedForm?.url && (
+                <div>
+                  <ContactForm />
+                </div>
+              )}
             </div>
           ) : (
-            /* Full Width Contact Form */
-            <div className="max-w-4xl mx-auto">
-              <ContactForm />
+            /* Full Width Contact Form - only show if embedded form is configured */
+            contactContent.embedForm?.enabled && contactContent.embedForm?.url && (
+              <div className="max-w-4xl mx-auto">
+                <ContactForm />
+              </div>
+            )
+          )}
+          
+          {/* Show message if no form is configured */}
+          {(!contactContent.embedForm?.enabled || !contactContent.embedForm?.url) && !contactContent.showContactInfo && (
+            <div className="max-w-4xl mx-auto text-center py-16">
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">Contact Configuration Needed</h2>
+              <p className="text-gray-600">Please configure either the contact information section or an embedded form in the admin panel.</p>
             </div>
           )}
         </div>

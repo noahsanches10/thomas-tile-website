@@ -6,11 +6,6 @@
     "title": "Contact Us",
     "zoom": 110
   },
-  "standardForm": {
-    "enabled": false,
-    "title": "Send Us a Message",
-    "submitText": "Send Message"
-  },
   "businessHours": {
     "monday": "7:00 AM - 6:00 PM",
     "tuesday": "7:00 AM - 6:00 PM",

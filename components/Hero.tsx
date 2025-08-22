@@ -215,11 +215,11 @@ export default function Hero({ content, siteConfig, pageType = 'home' }: HeroPro
           </div>
 
           {/* Hero Image */}
-          {content.hero.image && (
+          {(content.hero.image || (content.hero.showThumbnailInHero === false && content.hero.showContentInHero === false && content.hero.defaultImage)) && (
             <div className="relative">
               <div className="relative z-10">
                 <Image
-                  src={content.hero.image}
+                  src={content.hero.image || content.hero.defaultImage}
                   alt="Professional home service technician"
                   width={600}
                   height={400}
