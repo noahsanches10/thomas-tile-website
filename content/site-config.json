@@ -65,7 +65,7 @@
     "service-gutter-cleaning": "/uploads/hero-background-1756167062732.jpg",
     "service-solar-panel-cleaning": "/uploads/hero-background-1756167092113.webp",
     "service-house-washing": "/uploads/hero-background-1756167198579.jpg",
-    "about": "/uploads/hero-background-1756180061976.webp"
+    "about": "/uploads/hero-background-1756227360458.png"
   },
   "heroStyling": {
     "backgroundType": "gradient",
@@ -108,6 +108,11 @@
       "overlayColor": "#000000"
     },
     "image-hero-background-1756180061976.webp": {
+      "overlayType": "dark",
+      "overlayOpacity": 50,
+      "overlayColor": "#000000"
+    },
+    "image-hero-background-1756227360458.png": {
       "overlayType": "dark",
       "overlayOpacity": 50,
       "overlayColor": "#000000"
