@@ -49,7 +49,7 @@ export default async function AboutPage() {
               ))}
             </div>
             {aboutContent.story.image && (
-              <div className="relative h-72 md:h-full md:min-h-[480px] rounded-lg overflow-hidden">
+              <div className="relative h-[480px] sm:h-[560px] md:h-full md:min-h-[480px] rounded-lg overflow-hidden">
                 <Image
                   src={aboutContent.story.image}
                   alt="Our Story"
