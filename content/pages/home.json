@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Clear Views, Clear Minds",
-    "subtitle": "The best Premium Window Cleaning Service on the market. Clearing your minds with clear views. Let PureVue brighten your day!",
+    "subtitle": "The best Premium Window Cleaning & Painting Service in Wisconsin. Clearing your minds with clear views. Let PureVue brighten your day!",
     "image": "",
     "ctaText": "Get Free Estimate",
     "ctaLink": "/contact",
@@ -124,13 +124,13 @@
         },
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1758843670048.jpg",
+          "beforeImage": "/uploads/gallery-1761519533377.jpg",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1758843689173.jpg",
+          "beforeImage": "/uploads/gallery-1761517693283.jpg",
           "afterImage": "",
           "description": ""
         }
@@ -158,6 +158,14 @@
         {
           "question": "What types of windows do you clean?",
           "answer": "We specialize in cleaning all types of windows, including single-pane, double-pane, and insulated glass units. Our services are suitable for both residential and commercial properties."
+        },
+        {
+          "question": "How long does a fresh coat of paint last?",
+          "answer": "The lifespan of exterior paint typically ranges from 5-7 years in Wisconsin, depending on weather exposure, surface preparation, and paint quality. We use premium, weather-resistant paints and proper application techniques to maximize durability and ensure your home stays looking fresh."
+        },
+        {
+          "question": "What surfaces can you paint on your exterior painting service?",
+          "answer": "We paint a wide variety of exterior surfaces including vinyl siding, fiber cement, wood siding, fascia, trim, doors, shutters, and more. Our expert painters assess each surface and recommend the best paint type and preparation methods for lasting results."
         }
       ]
     },

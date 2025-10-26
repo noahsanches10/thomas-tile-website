@@ -99,33 +99,33 @@
       ]
     },
     {
-      "title": "House Washing",
-      "description": "Professional house washing services to restore your home's exterior beauty and protect your investment",
+      "title": "Painting",
+      "description": "Professional exterior painting services that enhance and protect your Wisconsin home with premium-quality finishes",
       "icon": "wrench",
-      "image": "https://washh.com/wp-content/uploads/2019/08/Importance-of-Pressure-Washing-Before-Painting-Your-House.jpg",
-      "slug": "house-washing",
+      "image": "https://5.imimg.com/data5/FG/KM/MY-8797479/commercial-painting-services.jpg",
+      "slug": "painting",
       "enabled": true,
       "showOtherServices": true,
       "showThumbnailInHero": false,
       "showContentInHero": false,
       "contentImage": "",
-      "longDescription": "Our professional house washing service transforms your home's exterior, removing years of dirt, grime, mildew, and environmental buildup. Using specialized soft-wash techniques and eco-friendly cleaning solutions, we safely clean all types of siding including vinyl, wood, brick, and stucco. Regular house washing not only improves your home's curb appeal but also protects your investment by preventing damage from harmful contaminants and extending the life of your exterior surfaces.",
+      "longDescription": "Our professional exterior painting service transforms your home's appearance while providing lasting protection against Wisconsin's harsh weather conditions. We handle everything from surface preparation to final coat application, ensuring beautiful, long-lasting results. Whether you're refreshing your home's color or preparing a new surface, our experienced team uses premium-grade paints and proven techniques to deliver exceptional quality and durability.",
       "benefits": [
         {
-          "title": "Soft Wash Technology",
-          "description": "We use gentle, low-pressure soft washing techniques that safely clean without damaging your siding or landscaping."
+          "title": "Premium Paint Quality",
+          "description": "We use only premium, weather-resistant exterior paints specifically formulated to withstand Wisconsin's freeze-thaw cycles and UV exposure."
         },
         {
-          "title": "Eco-Friendly Solutions",
-          "description": "Our biodegradable cleaning solutions are safe for your family, pets, and surrounding vegetation."
+          "title": "Expert Surface Preparation",
+          "description": "Proper preparation is key to lasting results. We thoroughly prepare all surfaces, including power washing, scraping, sanding, and priming as needed."
         },
         {
-          "title": "Complete Exterior Cleaning",
-          "description": "We clean siding, trim, gutters, and outdoor fixtures for a comprehensive exterior transformation."
+          "title": "Professional Application",
+          "description": "Our skilled painters use professional techniques and equipment to ensure even coverage, clean lines, and a flawless finish that lasts."
         },
         {
-          "title": "Mold & Mildew Removal",
-          "description": "Specialized treatments to eliminate harmful mold, mildew, and algae growth from your home's exterior."
+          "title": "Color Consultation",
+          "description": "Our team helps you choose the perfect color to enhance your home's curb appeal and architectural features with expert design guidance."
         }
       ]
     }

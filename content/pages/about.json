@@ -23,14 +23,14 @@
   "story": {
     "title": "Our Story",
     "content": [
-      "At PureVue Window Cleaning, we’re more than a window cleaning service—we’re a team of ambitious students with a vision to raise the standard in our industry. Founded in Bristol, WI, PureVue was built on the belief that homeowners deserve premium, hassle-free service while students gain meaningful opportunities to lead, learn, and grow. We take pride in combining professional results with a fresh approach to customer care.",
-      "Through our internship program, students gain real-world experience in sales, leadership, marketing, and professionalism. Every pane we polish reflects not only our commitment to detail and excellence, but also our mission to help the next generation of leaders develop skills that last far beyond the classroom. Our work is about more than clean windows—it’s about building confidence, careers, and brighter futures.",
-      "Choosing PureVue means choosing more than sparkling glass—it means supporting a program that empowers students while delivering unmatched service to your home. From Racine to Milwaukee and beyond, we bring clear views, reliable care, and the promise of a team invested in your satisfaction. With PureVue, your windows shine brighter, and so does the next generation."
+      "At PureVue, we're more than just a window cleaning service—we're a team of ambitious students with a vision to raise the standard in exterior cleaning and painting services. Founded in Bristol, WI, PureVue was built on the belief that homeowners deserve premium, hassle-free service while students gain meaningful opportunities to lead, learn, and grow. We take pride in combining professional results with a fresh approach to customer care.",
+      "Through our internship program, students gain real-world experience in sales, leadership, marketing, and professionalism. Whether we're delivering crystal-clear windows, pressure-washed exteriors, or premium exterior painting, every project reflects our commitment to detail and excellence. Our mission goes beyond clean windows and fresh paint—it's about building confidence, careers, and brighter futures for the next generation.",
+      "Choosing PureVue means choosing more than sparkling glass and beautifully painted exteriors—it means supporting a program that empowers students while delivering unmatched service to your home. From Milwaukee to Bristol and throughout Wisconsin, we bring professional care, reliable service, and the promise of a team invested in your satisfaction. With PureVue, your property shines brighter, and so does the next generation."
     ],
     "stats": [
       {
         "number": "1000+",
-        "label": "Milwaukee Properties Served"
+        "label": "Wisconsin Properties Served"
       },
       {
         "number": "3+",
@@ -41,37 +41,37 @@
         "label": "Satisfaction Guarantee"
       }
     ],
-    "image": "/uploads/about-1758840354490.jpg"
+    "image": "/uploads/about-1761519412210.jpg"
   },
   "values": {
-    "title": "Why Cache Valley Chooses Us",
-    "subtitle": "We're committed to excellence in every aspect of our Logan and Northern Utah exterior cleaning services",
+    "title": "Why Wisconsin Chooses PureVue",
+    "subtitle": "We're committed to excellence in every aspect of our Milwaukee and Wisconsin exterior cleaning and painting services",
     "items": [
       {
         "icon": "shield",
         "title": "Licensed & Insured",
-        "description": "Fully licensed Utah professionals with comprehensive insurance coverage for complete peace of mind throughout Cache Valley."
+        "description": "Fully licensed Wisconsin professionals with comprehensive insurance coverage for complete peace of mind for all our cleaning and painting services."
       },
       {
         "icon": "clock",
         "title": "Reliable Service",
-        "description": "Punctual, professional service with flexible scheduling to fit your busy Logan and Cache Valley lifestyle."
+        "description": "Punctual, professional service with flexible scheduling to fit your busy Wisconsin lifestyle. We arrive on time and deliver results that exceed expectations."
       },
       {
         "icon": "award",
         "title": "Satisfaction Guarantee",
-        "description": "100% satisfaction guarantee on all our Northern Utah exterior cleaning services. If you're not happy, we'll make it right."
+        "description": "100% satisfaction guarantee on all our Wisconsin exterior cleaning and painting services. If you're not happy, we'll make it right."
       },
       {
         "icon": "users",
         "title": "Local Community Focus",
-        "description": "Owner-operated business deeply rooted in the Logan and Cache Valley community, invested in your satisfaction and our local reputation."
+        "description": "Student-powered business deeply rooted in the Wisconsin community, invested in your satisfaction and in developing the next generation of professionals."
       }
     ]
   },
   "team": {
     "title": "Meet Our Team",
-    "subtitle": "Experienced exterior cleaning professionals dedicated to serving the Logan and Cache Valley community",
+    "subtitle": "Professional exterior cleaning and painting specialists dedicated to serving the Wisconsin community",
     "members": []
   }
 }
