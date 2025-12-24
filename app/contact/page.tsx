@@ -40,14 +40,14 @@ export default async function ContactPage() {
                 <div className="space-y-8">
                   {siteConfig.contact.phone && (
                     <div className="flex items-center space-x-4">
-                      <div className="w-12 h-12 bg-accent-light rounded-lg flex items-center justify-center">
-                        <Phone className="h-6 w-6 text-accent" />
+                      <div className="w-12 h-12 bg-primary-light rounded-lg flex items-center justify-center">
+                        <Phone className="h-6 w-6 text-primary" />
                       </div>
                       <div>
                         <p className="font-semibold text-gray-900">Phone</p>
                         <a 
                           href={`tel:${siteConfig.contact.phone}`}
-                          className="text-accent hover:underline"
+                          className="text-primary hover:underline"
                         >
                           {siteConfig.contact.phone}
                         </a>
@@ -57,14 +57,14 @@ export default async function ContactPage() {
 
                   {siteConfig.contact.email && (
                     <div className="flex items-center space-x-4">
-                      <div className="w-12 h-12 bg-accent-light rounded-lg flex items-center justify-center">
-                        <Mail className="h-6 w-6 text-accent" />
+                      <div className="w-12 h-12 bg-primary-light rounded-lg flex items-center justify-center">
+                        <Mail className="h-6 w-6 text-primary" />
                       </div>
                       <div>
                         <p className="font-semibold text-gray-900">Email</p>
                         <a 
                           href={`mailto:${siteConfig.contact.email}`}
-                          className="text-accent hover:underline"
+                          className="text-primary hover:underline"
                         >
                           {siteConfig.contact.email}
                         </a>
@@ -74,8 +74,8 @@ export default async function ContactPage() {
 
                   {siteConfig.contact.address && (
                     <div className="flex items-center space-x-4">
-                      <div className="w-12 h-12 bg-accent-light rounded-lg flex items-center justify-center">
-                        <MapPin className="h-6 w-6 text-accent" />
+                      <div className="w-12 h-12 bg-primary-light rounded-lg flex items-center justify-center">
+                        <MapPin className="h-6 w-6 text-primary" />
                       </div>
                       <div>
                         <p className="font-semibold text-gray-900">Address</p>
@@ -85,8 +85,8 @@ export default async function ContactPage() {
                   )}
 
                   <div className="flex items-start space-x-4">
-                    <div className="w-12 h-12 bg-accent-light rounded-lg flex items-center justify-center">
-                      <Clock className="h-6 w-6 text-accent" />
+                    <div className="w-12 h-12 bg-primary-light rounded-lg flex items-center justify-center">
+                      <Clock className="h-6 w-6 text-primary" />
                     </div>
                     <div>
                       <p className="font-semibold text-gray-900">Business Hours</p>
@@ -104,8 +104,8 @@ export default async function ContactPage() {
                 {/* Additional spacing to match form height */}
                 {contactContent.embedForm?.enabled && contactContent.embedForm?.url && (
                   <div className="hidden lg:block py-8">
-                    <div className="bg-accent-light rounded-lg p-6 text-center">
-                      <CheckCircle className="h-12 w-12 text-accent mx-auto mb-4" />
+                    <div className="bg-primary-light rounded-lg p-6 text-center">
+                      <CheckCircle className="h-12 w-12 text-primary mx-auto mb-4" />
                       <h3 className="text-lg font-semibold text-gray-900 mb-2">Ready to Get Started?</h3>
                       <p className="text-gray-600">Fill out the form and we'll get back to you shortly!</p>
                     </div>

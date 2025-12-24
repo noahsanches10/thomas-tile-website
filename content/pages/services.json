@@ -7,7 +7,7 @@
   "services": [
     {
       "title": "Window Cleaning",
-      "description": "Crystal clear windows inside and out using premium techniques and purified water systems",
+      "description": "Crystal clear windows inside and out using premium techniques",
       "icon": "droplets",
       "image": "/uploads/service-1758832593765.jpg",
       "slug": "window-cleaning",
@@ -38,7 +38,7 @@
     },
     {
       "title": "Pressure Washing",
-      "description": "Professional pressure washing for driveways, decks, patios, siding, and more",
+      "description": "Professional pressure washing for driveways, patios, siding, and more",
       "icon": "wrench",
       "image": "https://lonestarshineexteriorcleaning.com/uploads/service-1758833007596.png",
       "slug": "pressure-washing",
@@ -102,7 +102,7 @@
       "title": "Holiday Lighting",
       "description": "Professional holiday lighting design and installation for a festive home",
       "icon": "award",
-      "image": "/uploads/service-holiday-lighting.jpg",
+      "image": "https://www.outdoorlights.com/sub/45921/images/Fishers-Indiana-Christmas-Lighting-Service.jpeg",
       "slug": "holiday-lighting",
       "enabled": true,
       "showOtherServices": true,
@@ -135,13 +135,14 @@
       "text": "Get Free Estimate",
       "link": "/contact",
       "enabled": true,
-      "color": "accent",
+      "color": "primary",
       "textColor": "white"
     },
     "secondary": {
       "text": "Call Now",
       "link": "tel:(865) 336-0700",
-      "enabled": true
+      "enabled": true,
+      "color": "white"
     }
   }
 }

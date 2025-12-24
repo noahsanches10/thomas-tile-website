@@ -10,14 +10,15 @@
         "text": "Call Now",
         "link": "tel:(865) 336-0700",
         "enabled": true,
-        "color": "accent",
+        "color": "primary",
         "textColor": "white"
       },
       "secondary": {
         "text": "Get Free Estimate",
         "link": "/contact",
         "enabled": false,
-        "textColor": "white"
+        "textColor": "primary",
+        "color": "white"
       }
     },
     "trustIndicators": [
@@ -112,49 +113,61 @@
       "items": [
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1762444826177.png",
+          "beforeImage": "/uploads/gallery-1766559013939.png",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1762444836162.png",
+          "beforeImage": "/uploads/gallery-1766559032963.png",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "BEFORE",
-          "beforeImage": "/uploads/gallery-1762444863733.jpg",
+          "beforeImage": "/uploads/gallery-1766559045613.png",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "AFTER",
-          "beforeImage": "/uploads/gallery-1762444880862.jpg",
+          "beforeImage": "/uploads/gallery-1766559058474.png",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1762444898177.png",
+          "beforeImage": "/uploads/gallery-1766559070737.png",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1762444913589.png",
+          "beforeImage": "/uploads/gallery-1766559082600.png",
+          "afterImage": "",
+          "description": ""
+        },
+        {
+          "title": "BEFORE",
+          "beforeImage": "/uploads/gallery-1766559106722.png",
+          "afterImage": "",
+          "description": ""
+        },
+        {
+          "title": "AFTER",
+          "beforeImage": "/uploads/gallery-1766559118465.png",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1762444972693.jpg",
+          "beforeImage": "/uploads/gallery-1766559155721.png",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1762444983188.jpg",
+          "beforeImage": "/uploads/gallery-1766559187489.png",
           "afterImage": "",
           "description": ""
         }

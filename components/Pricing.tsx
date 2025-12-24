@@ -118,7 +118,7 @@ export default function Pricing({ content }: PricingProps) {
                 
                 <Button 
                   asChild 
-                  className={`w-full ${plan.popular ? 'bg-primary hover:bg-primary/90' : ''}`}
+                  className={`w-full ${plan.popular ? 'bg-primary hover:bg-primary/90' : 'hover:bg-primary hover:text-white'}`}
                   variant={plan.popular ? 'default' : 'outline'}
                 >
                   <Link href="/contact">
