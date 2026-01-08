@@ -37,33 +37,33 @@
       ]
     },
     {
-      "title": "Pressure Washing",
-      "description": "Professional pressure washing for driveways, patios, siding, and more",
+      "title": "Soft Washing",
+      "description": "Gentle soft washing for roofs and houses, pressure washing for driveways",
       "icon": "wrench",
       "image": "https://lonestarshineexteriorcleaning.com/uploads/service-1758833007596.png",
-      "slug": "pressure-washing",
+      "slug": "soft-washing",
       "enabled": true,
       "showOtherServices": true,
       "showThumbnailInHero": false,
       "showContentInHero": false,
       "contentImage": "",
-      "longDescription": "Our professional pressure washing service removes dirt, grime, mold, and algae from virtually any outdoor surface. We use the right equipment and techniques to clean effectively without damaging your property. From driveways to decks, patios to siding, we'll restore your exterior surfaces to like-new condition.",
+      "longDescription": "Our comprehensive exterior cleaning service uses the right method for each surface. We use gentle soft washing techniques for roofs, siding, and delicate surfaces to safely remove dirt, mold, algae, and stains without damage. For durable surfaces like driveways, walkways, and patios, we use traditional pressure washing to effectively remove stubborn grime and restore surfaces to like-new condition.",
       "benefits": [
         {
-          "title": "Safe, Professional Techniques",
-          "description": "We adjust pressure and cleaning methods based on the surface to prevent damage while ensuring thorough cleaning."
+          "title": "Surface-Specific Methods",
+          "description": "Gentle soft washing for roofs and siding, effective pressure washing for driveways and walkways - the right technique for every surface."
         },
         {
           "title": "Eco-Friendly Solutions",
           "description": "We use environmentally responsible cleaning solutions that are safe for your family, pets, and landscaping."
         },
         {
-          "title": "Complete Cleaning",
-          "description": "Driveways, decks, patios, siding, fences, and more - we can handle any outdoor surface."
+          "title": "Protect Your Investment",
+          "description": "Soft washing preserves roof shingles and siding while pressure washing restores concrete and stone surfaces without damage."
         },
         {
-          "title": "Quick Results",
-          "description": "Fast turnaround with stunning results that enhance your home's curb appeal immediately."
+          "title": "Complete Exterior Care",
+          "description": "From delicate roof cleaning to heavy-duty driveway restoration - we handle every aspect of your property's exterior."
         }
       ]
     },
