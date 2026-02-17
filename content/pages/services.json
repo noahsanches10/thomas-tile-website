@@ -1,131 +1,131 @@
 {
   "pageType": "multiple",
   "showAllServicesPage": false,
-  "title": "Our Cleaning Services",
+  "title": "Our Tile & Remodeling Services",
   "subtitle": "",
   "displayType": "images",
   "services": [
     {
-      "title": "Window Cleaning",
-      "description": "Crystal clear windows inside and out using premium techniques",
+      "title": "Bathroom Remodeling",
+      "description": "Complete bathroom remodels with expert tile installation and clean finishing",
       "icon": "droplets",
-      "image": "/uploads/service-1758832593765.jpg",
-      "slug": "window-cleaning",
+      "image": "/uploads/hero-background-1771293663972.jpg",
+      "slug": "bathroom-remodeling",
       "enabled": true,
       "showOtherServices": true,
       "showThumbnailInHero": false,
       "showContentInHero": false,
       "contentImage": "",
-      "longDescription": "Our premium window cleaning service delivers streak-free, crystal clear results using advanced purified water systems and professional-grade squeegees. We clean both interior and exterior surfaces, including screens and sills, ensuring your windows provide the clearest possible view while enhancing your home's curb appeal.",
+      "longDescription": "Our bathroom remodeling service focuses on practical design, durable materials, and precise tile craftsmanship. From demo through final details, we build bathrooms that are clean, functional, and built to last.",
       "benefits": [
         {
-          "title": "Purified Water System",
-          "description": "We use advanced water purification technology for spot-free, streak-free results."
+          "title": "Tile-First Craftsmanship",
+          "description": "Careful layout, straight lines, and clean finishes throughout showers, floors, and accent walls."
         },
         {
-          "title": "Interior & Exterior",
-          "description": "Complete window cleaning service including screens, sills, and frames."
+          "title": "Waterproofing Focus",
+          "description": "Built with proper prep and moisture protection to help prevent future issues."
         },
         {
-          "title": "Professional Equipment",
-          "description": "Commercial-grade squeegees and tools for superior cleaning results."
+          "title": "Modern Design Options",
+          "description": "From marble-look tile to contemporary finishes tailored to your style."
         },
         {
           "title": "Satisfaction Guarantee",
-          "description": "100% satisfaction guarantee - we'll return if you're not completely happy."
+          "description": "We stand behind our work and focus on delivering a final result you are proud of."
         }
       ]
     },
     {
-      "title": "Soft Washing",
-      "description": "Gentle soft washing for roofs and houses, pressure washing for driveways",
+      "title": "Kitchen Remodeling",
+      "description": "Kitchen upgrades with quality tile installation and detail-focused finishing",
       "icon": "wrench",
-      "image": "https://lonestarshineexteriorcleaning.com/uploads/service-1758833007596.png",
-      "slug": "soft-washing",
+      "image": "/uploads/hero-background-1771293696966.jpg",
+      "slug": "kitchen-remodeling",
       "enabled": true,
       "showOtherServices": true,
       "showThumbnailInHero": false,
       "showContentInHero": false,
       "contentImage": "",
-      "longDescription": "Our comprehensive exterior cleaning service uses the right method for each surface. We use gentle soft washing techniques for roofs, siding, and delicate surfaces to safely remove dirt, mold, algae, and stains without damage. For durable surfaces like driveways, walkways, and patios, we use traditional pressure washing to effectively remove stubborn grime and restore surfaces to like-new condition.",
+      "longDescription": "Our kitchen remodeling services include backsplash installation, tile upgrades, and finish work that elevates both style and functionality. We prioritize clean installation and dependable craftsmanship from start to finish.",
       "benefits": [
         {
-          "title": "Surface-Specific Methods",
-          "description": "Gentle soft washing for roofs and siding, effective pressure washing for driveways and walkways - the right technique for every surface."
+          "title": "Backsplash & Surface Tile",
+          "description": "Durable and attractive tile solutions for high-use kitchen areas."
         },
         {
-          "title": "Eco-Friendly Solutions",
-          "description": "We use environmentally responsible cleaning solutions that are safe for your family, pets, and landscaping."
+          "title": "Clean Installation",
+          "description": "Organized jobsite practices and careful workmanship throughout the project."
         },
         {
-          "title": "Protect Your Investment",
-          "description": "Soft washing preserves roof shingles and siding while pressure washing restores concrete and stone surfaces without damage."
+          "title": "Built for Daily Use",
+          "description": "Materials and methods selected for long-term performance in busy kitchens."
         },
         {
-          "title": "Complete Exterior Care",
-          "description": "From delicate roof cleaning to heavy-duty driveway restoration - we handle every aspect of your property's exterior."
+          "title": "Custom Look",
+          "description": "Layout and finish options that match your home and design goals."
         }
       ]
     },
     {
-      "title": "Gutter Cleaning",
-      "description": "Professional gutter cleaning and maintenance to protect your home",
+      "title": "Custom Showers & Wet Rooms",
+      "description": "Custom shower builds with elegant tile work and precise waterproofing",
       "icon": "droplets",
-      "image": "https://lonestarshineexteriorcleaning.com/uploads/service-1755721787761.jpg",
-      "slug": "gutter-cleaning",
+      "image": "/uploads/hero-background-1771293707137.jpg",
+      "slug": "custom-showers",
       "enabled": true,
       "showOtherServices": true,
       "showThumbnailInHero": false,
       "showContentInHero": false,
       "contentImage": "",
-      "longDescription": "Clean gutters are essential for protecting your home from water damage. Our professional gutter cleaning service removes debris and ensures proper water drainage. We handle everything safely and efficiently, so you don't have to worry about climbing ladders or dealing with leaves and dirt.",
+      "longDescription": "We design and build custom showers and wet-room style spaces with a focus on slope, drainage, waterproofing, and high-end tile finish. Every element is installed with precision for a clean, lasting result.",
       "benefits": [
         {
-          "title": "Debris Removal",
-          "description": "Complete removal of leaves, twigs, and other debris that can clog gutters and cause water damage."
+          "title": "Shower System Expertise",
+          "description": "Thoughtful prep and installation details for reliable long-term performance."
         },
         {
-          "title": "Safe Service",
-          "description": "Professional crews with proper safety equipment - no need for you to tackle this dangerous task."
+          "title": "Premium Finishes",
+          "description": "Marble-look tile, modern details, and clean lines tailored to your style."
         },
         {
-          "title": "Prevent Water Damage",
-          "description": "Properly flowing gutters protect your foundation, basement, and landscape from expensive water damage."
+          "title": "Code-Conscious Build",
+          "description": "Installed with durable materials and methods suited for wet, high-use environments."
         },
         {
-          "title": "Regular Maintenance",
-          "description": "Schedule seasonal cleanings to keep your gutters in top condition year-round."
+          "title": "Detail-Oriented Finish",
+          "description": "Careful trim, grout, and fixture transitions for a polished final look."
         }
       ]
     },
     {
-      "title": "Holiday Lighting",
-      "description": "Professional holiday lighting design and installation for a festive home",
+      "title": "Maintenance & Specialty Projects",
+      "description": "Residential and commercial maintenance, repairs, and select specialty exterior scopes",
       "icon": "award",
-      "image": "https://www.outdoorlights.com/sub/45921/images/Fishers-Indiana-Christmas-Lighting-Service.jpeg",
-      "slug": "holiday-lighting",
+      "image": "/uploads/hero-background-1771293702001.jpg",
+      "slug": "maintenance-specialty-projects",
       "enabled": true,
       "showOtherServices": true,
       "showThumbnailInHero": false,
       "showContentInHero": false,
       "contentImage": "",
-      "longDescription": "Make your home the highlight of the neighborhood with professional holiday lighting. Our team designs custom lighting displays tailored to your home's architecture and style. We handle all installation, and provide convenient removal when the season ends.",
+      "longDescription": "Beyond remodels, we provide ongoing maintenance support and tile repair for homes and commercial properties. We also take on select specialty scopes, including exterior finishing projects that match our capabilities.",
       "benefits": [
         {
-          "title": "Custom Design",
-          "description": "We work with you to create a beautiful holiday light display that matches your style and preferences."
+          "title": "Commercial Maintenance",
+          "description": "Reliable support for businesses that need consistent, professional maintenance service."
         },
         {
-          "title": "Professional Installation",
-          "description": "Expert installation with high-quality LED lights and commercial-grade wiring for safety and durability."
+          "title": "Tile Repair Services",
+          "description": "Targeted repairs and updates to restore worn or damaged tile areas."
         },
         {
-          "title": "Hassle-Free Service",
-          "description": "We handle design, installation, and removal - you just enjoy the beautiful results and compliments from neighbors."
+          "title": "Specialty Scope Capability",
+          "description": "Experience supporting work such as insulation, sheathing, house wrap, and Hardy board siding finish-out."
         },
         {
-          "title": "Energy Efficient",
-          "description": "We use LED lights that are energy-efficient and long-lasting, reducing your electricity costs."
+          "title": "Proven Results",
+          "description": "Consistent communication and quality-focused execution from start to completion."
         }
       ]
     }
@@ -140,7 +140,7 @@
     },
     "secondary": {
       "text": "Call Now",
-      "link": "tel:(865) 336-0700",
+      "link": "tel:(865)304-9792",
       "enabled": true,
       "color": "white"
     }

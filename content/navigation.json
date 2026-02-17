@@ -1,10 +1,6 @@
 {
   "header": [
     {
-      "label": "Service Plan",
-      "href": "/plan"
-    },
-    {
       "label": "Services",
       "href": "/services"
     },

@@ -1,14 +1,14 @@
 {
   "hero": {
-    "title": "Wallops Cleaning Services",
-    "subtitle": "The best premium cleaning service in East Tennessee",
+    "title": "Thomas TileWorks",
+    "subtitle": "Bathroom remodels, kitchen remodels, custom tile work, and maintenance in East Tennessee",
     "image": "",
     "ctaText": "Get Free Estimate",
     "ctaLink": "/contact",
     "cta": {
       "primary": {
         "text": "Call Now",
-        "link": "tel:(865) 336-0700",
+        "link": "tel:(865)304-9792",
         "enabled": true,
         "color": "primary",
         "textColor": "white"
@@ -23,12 +23,16 @@
     },
     "trustIndicators": [
       {
-        "text": "100% Satisfaction Guarantee",
+        "text": "Quality Craftsmanship",
         "enabled": true
       },
       {
-        "text": "Eco-Friendly Solutions",
-        "enabled": true
+        "text": "Clean Installation",
+        "enabled": false
+      },
+      {
+        "text": "Proven Results",
+        "enabled": false
       }
     ]
   },
@@ -57,18 +61,18 @@
       "items": [
         {
           "icon": "award",
-          "title": "Locally Owned, Community Trusted",
-          "description": "Wallops Cleaning Services has been serving East Tennessee with dedication and pride, building trust with neighbors through reliable and friendly service."
+          "title": "Skilled Tile Craftsmanship",
+          "description": "From layout to grout lines, we focus on precision and clean installation that elevates your space and holds up over time."
         },
         {
           "icon": "droplets",
-          "title": "Professional Results, Every Time",
-          "description": "Our skilled team delivers premium cleaning services for windows, pressure washing, gutters, and holiday lighting with precision and care."
+          "title": "Remodeling Specialists",
+          "description": "We primarily handle bathroom remodels, kitchen remodels, custom showers, and practical tile upgrades tailored to your home."
         },
         {
           "icon": "users",
-          "title": "Customer-First Approach",
-          "description": "We prioritize your satisfaction by offering tailored solutions: clear communication, precise assessments, and no shortcuts."
+          "title": "Residential & Commercial",
+          "description": "From homeowners to commercial maintenance, we deliver consistent communication, quality work, and proven results."
         }
       ]
     },
@@ -79,28 +83,28 @@
       "background": "white",
       "items": [
         {
-          "name": "Jennifer Walsh",
-          "location": "Logan",
+          "name": "Sarah M.",
+          "location": "Knoxville",
           "rating": 5,
-          "text": "Amazing window cleaning service! My windows have never been cleaner. The team was professional and efficient.",
+          "text": "From plain and unfinished to sleek and spa-worthy, our bathroom remodel turned out even better than we imagined. The tile work and finish quality are excellent.",
           "avatar": ""
         },
         {
-          "name": "Robert Chen",
-          "location": "Hyrum",
+          "name": "James R.",
+          "location": "Maryville",
           "rating": 5,
-          "text": "The house washing service transformed our home's exterior. It looks like new construction again!",
+          "text": "Our new tiled patio came out beautiful and durable. The installation was clean, on time, and the crew kept the jobsite organized.",
           "avatar": ""
         },
         {
-          "name": "Maria Rodriguez",
-          "location": "Smithfield",
+          "name": "Operations Manager",
+          "location": "East Tennessee",
           "rating": 5,
-          "text": "Professional solar panel cleaning service. They were thorough and our panels are producing more energy than ever. Highly recommend!",
+          "text": "Thomas TileWorks has been dependable for ongoing commercial maintenance work. Professional communication and consistent results every time.",
           "avatar": ""
         }
       ],
-      "useEmbed": true,
+      "useEmbed": false,
       "embedCode": "<script src=\"https://elfsightcdn.com/platform.js\" async></script>\n<div class=\"elfsight-app-893eac12-ce22-4682-9d4b-759a3336e8d5\" data-elfsight-app-lazy></div>",
       "iframeUrl": "https://15bccb0d3f3b499e93f42f32658d79a2.elf.site",
       "iframeHeight": "275px"
@@ -113,61 +117,61 @@
       "items": [
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1766559013939.png",
+          "beforeImage": "/uploads/gallery-1771293083196.jpg",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1766559032963.png",
-          "afterImage": "",
-          "description": ""
-        },
-        {
-          "title": "BEFORE",
-          "beforeImage": "/uploads/gallery-1766559045613.png",
-          "afterImage": "",
-          "description": ""
-        },
-        {
-          "title": "AFTER",
-          "beforeImage": "/uploads/gallery-1766559058474.png",
+          "beforeImage": "/uploads/gallery-1771293091452.jpg",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1766559070737.png",
+          "beforeImage": "/uploads/gallery-1771293100999.jpg",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1766559082600.png",
-          "afterImage": "",
-          "description": ""
-        },
-        {
-          "title": "BEFORE",
-          "beforeImage": "/uploads/gallery-1766559106722.png",
-          "afterImage": "",
-          "description": ""
-        },
-        {
-          "title": "AFTER",
-          "beforeImage": "/uploads/gallery-1766559118465.png",
+          "beforeImage": "/uploads/gallery-1771293112661.jpg",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1766559155721.png",
+          "beforeImage": "/uploads/gallery-1771293120950.jpg",
           "afterImage": "",
           "description": ""
         },
         {
           "title": "",
-          "beforeImage": "/uploads/gallery-1766559187489.png",
+          "beforeImage": "/uploads/gallery-1771293131716.jpg",
+          "afterImage": "",
+          "description": ""
+        },
+        {
+          "title": "",
+          "beforeImage": "/uploads/gallery-1771293141312.jpg",
+          "afterImage": "",
+          "description": ""
+        },
+        {
+          "title": "",
+          "beforeImage": "/uploads/gallery-1771293151180.jpg",
+          "afterImage": "",
+          "description": ""
+        },
+        {
+          "title": "",
+          "beforeImage": "/uploads/gallery-1771293162133.jpg",
+          "afterImage": "",
+          "description": ""
+        },
+        {
+          "title": "",
+          "beforeImage": "/uploads/gallery-1771293174629.jpg",
           "afterImage": "",
           "description": ""
         }
@@ -182,73 +186,72 @@
       "background": "secondary-light",
       "items": [
         {
-          "question": "How often should I have my windows professionally cleaned?",
-          "answer": "For East Tennessee homes, we recommend professional window cleaning every 3-6 months. This ensures your windows stay clean and protected year-round!"
+          "question": "What remodeling projects do you specialize in?",
+          "answer": "We primarily focus on bathroom remodels and kitchen remodels, along with custom showers, wet-room style builds, and tile-focused upgrades."
         },
         {
-          "question": "What surfaces can pressure washing clean?",
-          "answer": "We can safely pressure wash driveways, sidewalks, decks, patios, siding, fences, and more. We adjust our equipment and techniques based on the surface to prevent damage."
+          "question": "Do you handle custom shower installs?",
+          "answer": "Yes. We design and install custom showers with attention to waterproofing, layout, slope, and clean finished details."
         },
         {
-          "question": "Do you clean gutters?",
-          "answer": "Yes! Gutter cleaning is one of our core services. We safely remove debris and ensure proper water flow to protect your home's foundation."
+          "question": "Do you offer maintenance or repair work?",
+          "answer": "Absolutely. We provide tile repair and maintenance services for residential and commercial clients, including ongoing maintenance agreements."
         },
         {
-          "question": "Do you install holiday lighting?",
-          "answer": "Absolutely! We offer professional holiday lighting installation to make your home festive and beautiful. We handle design, installation, and takedown."
+          "question": "Can you take on specialty exterior projects?",
+          "answer": "Yes. In addition to tile work, we can support select specialty projects such as exterior finishing scopes when they align with our expertise."
         },
         {
           "question": "Do you have a satisfaction guarantee?",
-          "answer": "Yes! We stand behind our work with a 100% satisfaction guarantee. If you're not completely happy with our service, we'll make it right at no additional charge."
+          "answer": "Yes. We stand behind our craftsmanship and work hard to ensure you are fully satisfied with the finished result."
         }
       ]
     },
     "pricing": {
-      "enabled": true,
+      "enabled": false,
       "plans": [
         {
-          "name": "Bi-Annual",
-          "price": "$50",
-          "period": "off per cleaning",
+          "name": "Maintenance Visit",
+          "price": "Custom",
+          "period": "pricing",
           "description": "",
           "features": [
-            "7 Day Rain Guarantee"
+            "Tile and grout touch-up scope"
           ],
           "popular": false,
           "exclusions": [
-            "FREE Protective Nanocoat",
-            "FREE Screen Cleaning"
+            "Final scope based on walkthrough"
           ]
         },
         {
-          "name": "Quarterly",
-          "price": "$100",
-          "period": "off per cleaning",
+          "name": "Kitchen Remodel",
+          "price": "Custom",
+          "period": "proposal",
           "description": "",
           "features": [
-            "7 Day Rain Guarantee",
-            "FREE Protective Nanocoat",
-            "FREE Screen Cleaning"
+            "Backsplash and surface tile options",
+            "Layout planning and detail finishing",
+            "Material recommendations"
           ],
           "popular": true
         },
         {
-          "name": "Tri-Annual",
-          "price": "$75",
-          "period": "off per cleaning",
+          "name": "Bathroom Remodel",
+          "price": "Custom",
+          "period": "proposal",
           "description": "",
           "features": [
-            "7 Day Rain Guarantee",
-            "FREE Protective Nanocoat"
+            "Custom shower and wet area options",
+            "Waterproofing-focused installation"
           ],
           "popular": false,
           "exclusions": [
-            "FREE Screen Cleaning"
+            "Final scope based on walkthrough"
           ]
         }
       ],
       "background": "secondary-light",
-      "title": "Save With Service Plans",
+      "title": "Tile & Remodel Services",
       "subtitle": ""
     }
   }

@@ -1,6 +1,6 @@
 {
   "hero": {
-    "title": "Wallops Cleaning Service Plans",
+    "title": "Thomas TileWorks Service Plans",
     "subtitle": "",
     "image": "",
     "videoUrl": "",
@@ -16,7 +16,7 @@
       "secondary": {
         "enabled": true,
         "text": "Call Now",
-        "link": "tel:(865) 336-0700",
+        "link": "tel:(865)304-9792",
         "color": "white",
         "textColor": "primary"
       }
@@ -25,28 +25,28 @@
   "process": {
     "enabled": true,
     "title": "How It Works",
-    "description": "Enjoy hassle-free, recurring cleaning services that keep your property beautiful year-round!",
+    "description": "Enjoy a clear, professional process for remodels, custom tile work, and ongoing maintenance.",
     "image": "",
     "steps": [
       {
         "step": 1,
-        "title": "Professional Assessment",
-        "description": "We evaluate your property and discuss your specific cleaning needs and goals."
+        "title": "Project Consultation",
+        "description": "We review your space, goals, and scope for bathroom, kitchen, shower, or maintenance work."
       },
       {
         "step": 2,
-        "title": "Customized Plan",
-        "description": "We create a service schedule tailored to your property and maintenance requirements."
+        "title": "Customized Proposal",
+        "description": "You receive a tailored plan with recommended materials, timeline, and clear next steps."
       },
       {
         "step": 3,
-        "title": "Reliable Service",
-        "description": "Our team delivers consistent, high-quality cleaning on your scheduled dates."
+        "title": "Quality Installation",
+        "description": "Our team delivers clean installation with precision craftsmanship and reliable communication."
       },
       {
         "step": 4,
-        "title": "Ongoing Support",
-        "description": "We provide regular maintenance to keep your property looking pristine year-round."
+        "title": "Final Walkthrough & Support",
+        "description": "We complete a final review and remain available for maintenance and future project support."
       }
     ]
   },
@@ -57,17 +57,17 @@
     "items": [
       {
         "title": "Long-Lasting Protection",
-        "description": "Treatments that keep glass cleaner between visits.",
+        "description": "Routine maintenance helps protect tile finishes and reduce long-term wear.",
         "icon": "shield"
       },
       {
         "title": "Hassle-Free Scheduling",
-        "description": "Flexible service plans that work around your calendar.",
+        "description": "Flexible scheduling options for homeowners and commercial properties.",
         "icon": "clock"
       },
       {
         "title": "Guaranteed Peace of Mind",
-        "description": "If the birds or rain strikes, we’ve got you covered.",
+        "description": "Dependable workmanship and clear communication at every step.",
         "icon": "thumbsup"
       }
     ]
@@ -97,35 +97,35 @@
     "enabled": true,
     "plans": [
       {
-        "name": "Bi-Annual",
-        "price": "$50",
-        "period": "per cleaning",
+        "name": "Maintenance",
+        "price": "Custom",
+        "period": "pricing",
         "description": "",
-        "features": "7 Day Rain Guarantee\n",
-        "exclusions": "FREE Protective Nanocoat\nFREE Screen Cleaning",
+        "features": "Tile and grout maintenance options\nPriority scheduling availability",
+        "exclusions": "Final scope based on walkthrough",
         "popular": false
       },
       {
-        "name": "Quarterly",
-        "price": "$100",
-        "period": "per cleaning",
+        "name": "Kitchen Remodel",
+        "price": "Custom",
+        "period": "proposal",
         "description": "",
-        "features": "7 Day Rain Guarantee\nFREE Protective Nanocoat\nFREE Screen Cleaning",
+        "features": "Backsplash and finish tile options\nLayout and design support\nClean installation",
         "exclusions": "",
         "popular": true
       },
       {
-        "name": "Tri-Annual",
-        "price": "$75",
-        "period": "per cleaning",
+        "name": "Bathroom Remodel",
+        "price": "Custom",
+        "period": "proposal",
         "description": "",
-        "features": "7 Day Rain Guarantee\nFREE Protective Nanocoat",
-        "exclusions": "FREE Screen Cleaning",
+        "features": "Custom shower and wet-area options\nWaterproofing-focused installation",
+        "exclusions": "Final scope based on walkthrough",
         "popular": false
       }
     ],
     "displayStyle": "cards",
-    "title": "Flexible Plans For Your Needs",
+    "title": "Flexible Service Options",
     "subtitle": ""
   },
   "sectionOrder": [

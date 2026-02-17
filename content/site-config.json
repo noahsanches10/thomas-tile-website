@@ -1,29 +1,29 @@
 {
-  "siteName": "Wallops Cleaning Services",
-  "tagline": "Professional Cleaning in Tennessee",
-  "logo": "/uploads/1765334379422.png",
+  "siteName": "Thomas TileWorks",
+  "tagline": "Quality craftsmanship • Clean installation • Proven results",
+  "logo": "/uploads/1771290356500.jpg",
   "brandColors": {
-    "primary": "#3A0CA3",
+    "primary": "#d97136",
     "secondary": "#00000",
     "accent": "#737C7E"
   },
   "headerStyle": "default",
   "footerStyle": "secondary",
   "contact": {
-    "phone": "(865) 336-0700",
-    "email": "",
+    "phone": "(865) 304-9792",
+    "email": "thomastileworksllc@gmail.com",
     "address": ""
   },
   "serviceAreas": [
-    "Vonore",
-    "Maryville",
     "Knoxville",
+    "Maryville",
     "Loudon",
-    "Madisonville",
-    "Tellico Village"
+    "Clinton",
+    "Sevierville",
+    "Lenoir City"
   ],
   "socialMedia": {
-    "facebook": "https://www.facebook.com/WallopsServices",
+    "facebook": "https://www.facebook.com/profile.php?id=61582438320918",
     "instagram": "",
     "nextdoor": "",
     "google": ""
@@ -33,12 +33,12 @@
   "bannerLayout": "contained",
   "bannerStyle": "secondary",
   "ctaBanner": {
-    "title": "Ready for Professional Cleaning?",
-    "subtitle": "Contact Wallops Cleaning Services today for a free estimate and see the difference professional cleaning makes.",
+    "title": "Ready to Start Your Tile Project?",
+    "subtitle": "Contact Thomas TileWorks today for a free estimate on bathroom remodels, kitchen remodels, custom showers, and maintenance work.",
     "primaryText": "Get Free Estimate",
     "secondaryText": "Call Now",
     "primaryLink": "/contact",
-    "secondaryLink": "tel:(865)336-0700",
+    "secondaryLink": "tel:(865)304-9792",
     "primaryEnabled": true,
     "primaryButtonColor": "white",
     "style": "primary",
@@ -59,15 +59,15 @@
   },
   "showLogoInFooter": false,
   "logoSize": 60,
-  "favicon": "/uploads/1765334387253.png",
+  "favicon": "/uploads/1771290365389.jpg",
   "footerTextColor": "white",
   "fontFamily": "poppins",
   "heroBackgrounds": {
-    "service-holiday-lighting": "/uploads/hero-background-1766557344124.jpeg",
-    "service-gutter-cleaning": "/uploads/hero-background-1766557298849.jpg",
-    "service-soft-washing": "/uploads/hero-background-1766557317981.png",
-    "service-window-cleaning": "/uploads/hero-background-1766557258847.webp",
-    "home": "/uploads/hero-background-1766557248607.png"
+    "home": "/uploads/hero-background-1771292519989.png",
+    "service-custom-showers": "/uploads/hero-background-1771293707137.jpg",
+    "service-maintenance-specialty-projects": "/uploads/hero-background-1771293702001.jpg",
+    "service-bathroom-remodeling": "/uploads/hero-background-1771293696966.jpg",
+    "service-kitchen-remodeling": "/uploads/hero-background-1771293663972.jpg"
   },
   "heroStyling": {
     "backgroundType": "secondary",
@@ -254,6 +254,36 @@
       "overlayOpacity": 50,
       "overlayColor": "#000000",
       "videoPosition": 50
+    },
+    "image-hero-background-1771292519989.png": {
+      "overlayType": "dark",
+      "overlayOpacity": 50,
+      "overlayColor": "#000000",
+      "videoPosition": 50
+    },
+    "image-hero-background-1771293707137.jpg": {
+      "overlayType": "dark",
+      "overlayOpacity": 50,
+      "overlayColor": "#000000",
+      "videoPosition": 50
+    },
+    "image-hero-background-1771293702001.jpg": {
+      "overlayType": "dark",
+      "overlayOpacity": 50,
+      "overlayColor": "#000000",
+      "videoPosition": 50
+    },
+    "image-hero-background-1771293696966.jpg": {
+      "overlayType": "dark",
+      "overlayOpacity": 50,
+      "overlayColor": "#000000",
+      "videoPosition": 50
+    },
+    "image-hero-background-1771293663972.jpg": {
+      "overlayType": "dark",
+      "overlayOpacity": 50,
+      "overlayColor": "#000000",
+      "videoPosition": 50
     }
   },
   "headerCtaTextColor": "white",
@@ -270,25 +300,31 @@
       "overlayColor": "#000000",
       "videoPosition": 50
     },
-    "/uploads/hero-background-1766557298849.jpg": {
+    "/uploads/hero-background-1771292519989.png": {
       "overlayType": "dark",
       "overlayOpacity": 50,
       "overlayColor": "#000000",
       "videoPosition": 50
     },
-    "/uploads/hero-background-1766557317981.png": {
+    "/uploads/hero-background-1771293707137.jpg": {
       "overlayType": "dark",
       "overlayOpacity": 50,
       "overlayColor": "#000000",
       "videoPosition": 50
     },
-    "/uploads/hero-background-1766557258847.webp": {
+    "/uploads/hero-background-1771293702001.jpg": {
       "overlayType": "dark",
       "overlayOpacity": 50,
       "overlayColor": "#000000",
       "videoPosition": 50
     },
-    "/uploads/hero-background-1766557248607.png": {
+    "/uploads/hero-background-1771293696966.jpg": {
+      "overlayType": "dark",
+      "overlayOpacity": 50,
+      "overlayColor": "#000000",
+      "videoPosition": 50
+    },
+    "/uploads/hero-background-1771293663972.jpg": {
       "overlayType": "dark",
       "overlayOpacity": 50,
       "overlayColor": "#000000",

@@ -3,9 +3,11 @@ title: "Tile Selection Guide: Where Each Tile Type Works Best"
 date: "2024-12-10"
 excerpt: "Learn how to choose the right tile for bathrooms, kitchens, showers, floors, and patios in East Tennessee homes."
 author: "Thomas TileWorks"
-image: "/uploads/hero-background-1766557258847.webp"
+image: "/uploads/blog-1771295707522.png"
 tags: ["tile", "bathroom remodel", "kitchen remodel", "custom shower", "East Tennessee", "Knoxville"]
 ---
+
+
 
 The right tile can make or break a remodel. In East Tennessee homes, we see a lot of beautiful designs fail early because the material choice didn’t match the space.
 

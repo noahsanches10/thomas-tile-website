@@ -5,7 +5,7 @@
       "title": "What Your Neighbors Say About Us",
       "subtitle": "",
       "background": "white",
-      "useEmbed": true,
+      "useEmbed": false,
       "iframeUrl": "https://15bccb0d3f3b499e93f42f32658d79a2.elf.site",
       "iframeHeight": "400px",
       "items": [
@@ -14,6 +14,20 @@
           "location": "Downtown",
           "rating": 5,
           "text": "TESTING",
+          "avatar": ""
+        },
+        {
+          "name": "Noah Sanches",
+          "location": "",
+          "rating": 5,
+          "text": "TESTHING THIS OUT",
+          "avatar": ""
+        },
+        {
+          "name": "Dylan Fontinell",
+          "location": "",
+          "rating": 5,
+          "text": "what a guyyy",
           "avatar": ""
         }
       ]

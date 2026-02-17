@@ -3,9 +3,10 @@ title: "Seasonal Tile & Grout Maintenance Tips for East Tennessee Homes"
 date: "2024-12-15"
 excerpt: "Protect your bathroom, kitchen, shower, and patio tile year-round with practical maintenance habits that prevent costly repairs."
 author: "Thomas TileWorks"
-image: "/uploads/hero-background-1766557344124.jpeg"
+image: "/uploads/hero-background-1771293702001.jpg"
 tags: ["tile maintenance", "grout care", "bathroom remodel", "kitchen remodel", "East Tennessee", "Knoxville"]
 ---
+
 
 Tile is durable, but it still needs seasonal upkeep—especially in high-moisture areas and high-traffic homes. A little preventive maintenance can protect your remodel and avoid avoidable repair costs.
 

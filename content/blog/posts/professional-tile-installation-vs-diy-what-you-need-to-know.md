@@ -3,9 +3,10 @@ title: "Professional Tile Installation vs DIY: What You Need to Know"
 date: "2024-12-05"
 excerpt: "Understand when DIY tile projects make sense and when professional installation is the safer, more cost-effective choice."
 author: "Thomas TileWorks"
-image: "/uploads/hero-background-1766557317981.png"
+image: "/uploads/blog-1771295761899.jpg"
 tags: ["tile installation", "DIY", "bathroom remodel", "kitchen remodel", "Knoxville", "East Tennessee"]
 ---
+
 
 Tile can look simple in photos, but the installation details are where projects succeed or fail. Before you decide to DIY your bathroom, kitchen, or shower tile work, it helps to understand where professionals add real value.
 

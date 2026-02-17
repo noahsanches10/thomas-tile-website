@@ -1,10 +1,10 @@
-# Exterior Cleaning Business Landing Page
+# Home Services Landing Page Template
 
-A production-ready, SEO-optimized landing page template for exterior cleaning businesses with a built-in file-based CMS admin panel.
+A production-ready, SEO-optimized landing page template for local service businesses (including tile and remodeling companies) with a built-in file-based CMS admin panel.
 
 ## Features
 
-- 🎨 **Beautiful, responsive design** optimized for exterior cleaning businesses
+- 🎨 **Beautiful, responsive design** optimized for local service businesses
 - 📝 **File-based CMS** - no database required
 - 🔧 **Admin panel** for easy content management
 - 📱 **Mobile-first responsive design**

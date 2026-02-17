@@ -23,9 +23,9 @@
   "story": {
     "title": "Our Story",
     "content": [
-      "Wallops Cleaning Services was founded with a simple mission: to provide East Tennessee with professional, reliable cleaning solutions that homeowners can trust. We understand that your home is your investment, and keeping it clean and well-maintained is a priority.",
-      "What started as a commitment to exceptional service has grown into a trusted name throughout Vonore, Maryville, Knoxville, Loudon, Madisonville, and Tellico Village. We've built our reputation on hard work, attention to detail, and genuine care for our customers' properties.",
-      "Every member of our team is trained to deliver professional results while treating your home with respect. Whether it's crystal-clear windows, pressure-washed driveways, clean gutters, or festive holiday lighting, we bring the same dedication to every job. Wallops Cleaning Services isn't just about cleaning—it's about building lasting relationships with our neighbors and customers throughout East Tennessee."
+      "Thomas TileWorks was founded with a simple mission: deliver high-quality tile craftsmanship and remodel work that East Tennessee homeowners and businesses can trust.",
+      "What started as a hands-on commitment to clean installation and dependable service has grown into a trusted local company serving Vonore, Maryville, Knoxville, Loudon, Madisonville, and Tellico Village.",
+      "We primarily focus on bathroom remodels and kitchen remodels, while also providing custom showers, maintenance services, and select specialty projects. Every job is completed with attention to detail, clear communication, and pride in the final result."
     ],
     "stats": [
       {
@@ -45,22 +45,22 @@
   },
   "values": {
     "title": "Our Core Values",
-    "subtitle": "We're committed to excellence in every aspect of our professional cleaning and maintenance services",
+    "subtitle": "We're committed to excellence in every aspect of our tile installation and remodeling services",
     "items": [
       {
         "icon": "shield",
         "title": "Licensed & Insured",
-        "description": "Fully licensed professionals with comprehensive insurance coverage for complete peace of mind on all our cleaning services."
+        "description": "Fully licensed professionals with comprehensive insurance coverage for complete peace of mind on every project."
       },
       {
         "icon": "clock",
         "title": "Reliable Service",
-        "description": "Punctual, professional service with flexible scheduling to fit your busy lifestyle. We arrive on time and deliver results that exceed expectations."
+        "description": "Punctual, professional service with clear timelines and consistent communication from estimate to final walkthrough."
       },
       {
         "icon": "award",
         "title": "Satisfaction Guarantee",
-        "description": "100% satisfaction guarantee on all our cleaning services. If you're not happy, we'll make it right."
+        "description": "We stand behind our craftsmanship and work hard to make sure every client is confident in the final result."
       },
       {
         "icon": "users",
@@ -71,7 +71,7 @@
   },
   "team": {
     "title": "Meet Our Team",
-    "subtitle": "Professional cleaning service specialists dedicated to serving the East Tennessee community",
+    "subtitle": "Tile and remodeling professionals dedicated to serving the East Tennessee community",
     "members": []
   }
 }
