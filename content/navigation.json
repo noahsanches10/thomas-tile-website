@@ -17,10 +17,6 @@
   },
   "footer": [
     {
-      "label": "Service Plan",
-      "href": "/plan"
-    },
-    {
       "label": "About",
       "href": "/about"
     },
